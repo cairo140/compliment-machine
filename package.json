@@ -1,0 +1,19 @@
+{
+  "name": "compliment-machine",
+  "version": "0.0.1",
+  "description": "Gives compliments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cairo140/compliment-machine.git"
+  },
+  "author": "steven@stevenxu.ca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cairo140/compliment-machine/issues"
+  },
+  "homepage": "https://github.com/cairo140/compliment-machine#readme"
+}

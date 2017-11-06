@@ -3,6 +3,6 @@ FROM node:8
 COPY . /app
 WORKDIR /app
 
-EXPOSE 3000
+EXPOSE 80
 
 CMD ["node", "index.js"]

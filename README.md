@@ -6,6 +6,7 @@ Local development
 
 ```
 git clone git@github.com:cairo140/compliment-machine.git
+cd compliment-machine
 PORT=3000 node index.js
 ```
 
